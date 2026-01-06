@@ -1,4 +1,5 @@
 [
+[
   {
     "bookId": 1,
     "bookName": "The Great Gatsby",
@@ -116,4 +117,5 @@
     "publisher": "Riverhead Books",
     "yearOfPublishing": 2015
   }
+]
 ]
